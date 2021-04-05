@@ -1,1 +1,4 @@
-# 3DVisionNotebooks
+# 3D Vision Notebooks
+
+Stijn Oomes
+
